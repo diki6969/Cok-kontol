@@ -664,10 +664,10 @@ function ucapan() {
   if (time >= 10) {
     res = "Siang Lord ☀️"
   }
-  if (time >= 16) {
+  if (time >= 15) {
     res = "Sore Lord 🌇"
   }
-  if (time >= 20) {
+  if (time >= 18) {
     res = "Malam Lord 🌙"
   }
   return res
